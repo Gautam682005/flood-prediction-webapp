@@ -1,5 +1,4 @@
-# flood-prediction-webapp
-# 🌦️ Weather & Flood Alert Web App
+# 🌦️ flood-prediction-webapp
 
 A Streamlit-based web application that provides real-time weather updates and flood risk alerts using live weather API data.  
 The app also sends SMS alerts using Twilio when flood risk is detected.
