@@ -1,0 +1,8 @@
+streamlit
+requests
+pandas
+twilio
+matplotlib
+folium
+streamlit-folium
+python-dotenv
